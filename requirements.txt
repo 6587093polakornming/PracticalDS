@@ -2,3 +2,4 @@ pandas
 numpy
 icd-mappings
 ipykernel
+scipy
